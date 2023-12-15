@@ -1,0 +1,8 @@
+C:\Users\thepu\source\repos\TurningCylinders\bin\Debug\TurningCylinders.exe.config
+C:\Users\thepu\source\repos\TurningCylinders\bin\Debug\TurningCylinders.exe
+C:\Users\thepu\source\repos\TurningCylinders\bin\Debug\TurningCylinders.pdb
+C:\Users\thepu\source\repos\TurningCylinders\obj\Debug\TurningCylinders.csproj.AssemblyReference.cache
+C:\Users\thepu\source\repos\TurningCylinders\obj\Debug\TurningCylinders.csproj.SuggestedBindingRedirects.cache
+C:\Users\thepu\source\repos\TurningCylinders\obj\Debug\TurningCylinders.csproj.CoreCompileInputs.cache
+C:\Users\thepu\source\repos\TurningCylinders\obj\Debug\TurningCylinders.exe
+C:\Users\thepu\source\repos\TurningCylinders\obj\Debug\TurningCylinders.pdb
